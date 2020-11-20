@@ -1,0 +1,61 @@
+.header {
+				padding: 10px;
+				color: white;
+				margin: 10px auto;
+				border-radius: 15px;
+				border-color: black;
+				border-style: solid;
+
+}
+
+.c-teal {
+background-color: #44F9E3;
+}
+
+.c-light_blue {
+				background-color: #44B4F9;
+
+}
+.c-blue {
+
+				background-color: #445Af9;
+
+}
+
+.c-purple {
+				background-color: #8944F9;
+
+}
+
+.c-magenta {
+				background-color: #E334F9;
+
+}
+
+.c-hot_pink {
+				background-color: #F944B4;
+}
+
+.note-quote {
+	text-align: center;
+		padding: 50px 0;
+	font-style: italic;
+	font-weight: bold;
+	
+}
+
+.note-from {
+	position: absolute;
+	bottom:0 ;
+	
+}
+.sticky-note {
+				height: 300px;
+				width: 350px;
+				overflow: auto;
+				font-size: 20px;
+	text-align: center;
+	margin:2vh;
+
+
+}
