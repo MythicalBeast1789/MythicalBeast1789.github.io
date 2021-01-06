@@ -1,0 +1,46 @@
+[
+  {
+  "date": "January 1st",
+  "events": [{
+  "name": "Almost got hit by a tree",
+  "image": "1-1-2.jpg",
+  "details": "There had been a heavy ice storm that day. The power flickered and it seemed like a tree branch might have hit the lines. I went out to see the state of the tree, i heard a loud snap, turned around, ran and jumped into the backdoor. Turns out a branch snapped and if the power lines weren't there it could have hit me"}
+  ]
+  },
+  {
+    "date": "January 2st",
+    "events": [{
+      "name": "Played Minecraft with the homies",
+      "image": "",
+      "details": "found an old minecraft world i played with some friends. Started to play it again."}
+    ]
+  },
+  {
+    "date": "January 3st",
+    "events": [{
+      "name": "Got new shoes",
+      "image": "",
+      "details": "Got a new pair of shoes. They are Addis and look funny cuz they are meant for good traction in the snow. (P.S. holding a shoe makes me realize how big my feet are)"}
+    ]
+  },
+  {
+    "date": "January 4st",
+    "events": [{
+      "name": "Long Walk",
+      "image": "",
+      "details": "Took my dog for a 5ish mile walk. Got weird looks cuz my school has started yet..."},
+      {"name":  "Soup for lunch",
+      "details":  "Had left over chicken noodle soup for lunch. was very good."},
+      {"name":  "Deep clean",
+        "details":  "Deep cleaned my room, removing every dust particle possible"}
+    ]
+  },
+  {
+    "date": "January 5th",
+    "events": [{
+      "name": "Drafted this website",
+      "image": "",
+      "details": "Started developing this website. Very lame. Might make better later idk..."}
+    ]
+  }
+]

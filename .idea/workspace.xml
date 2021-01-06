@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f81b6e2c-1a97-4991-8f60-2ae3922ccd3f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guides/modded_mc.html" beforeDir="false" afterPath="$PROJECT_DIR$/guides/modded_mc.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +48,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605899110394</updated>
-      <workItem from="1605899112706" duration="5757000" />
+      <workItem from="1605899112706" duration="6357000" />
+      <workItem from="1606163227885" duration="823000" />
+      <workItem from="1609899895714" duration="96000" />
+      <workItem from="1609900010963" duration="969000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="968" y="206" width="934" height="702" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605904302370">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="968" y="206" width="934" height="702" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1605904302370" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

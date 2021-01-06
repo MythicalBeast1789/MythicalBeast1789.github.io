@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/8.0.1/math.js" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <div class="inputs">
+            <label for="an">a_n</label>
+            <input type="text" id="an">
+
+            <label for="a1">a1</label>
+            <input type="text" id="a1">
+
+
+            <label for="n">n</label>
+            <input type="text" id="n">
+
+            <label for="an">d</label>
+            <input type="text" id="d">
+
+            <button onclick="solve('find_an')">Find a_n</button>
+        </div>
+    </body>
+    <script>
+        function solve(type){
+            const an = $('an').text
+            console.log(an)
+        }
+    </script>
+</html>
