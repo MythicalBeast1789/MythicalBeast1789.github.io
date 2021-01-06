@@ -17,9 +17,9 @@
     fetch('2021.json').then(res => {
         res.text().then(text => {
             const json = JSON.parse(text)
-            print(json)
+            console.log(json)
             for (ev in json) {
-                const date_h = "<h4>" + ev.date + "</h4>"
+                const date_h = "<h4>" + json[ev].date + "</h4>"
                 console.log(ev)
                 event_list_elm.insertAdjacentHTML('beforeend', date_h)
             }
