@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f81b6e2c-1a97-4991-8f60-2ae3922ccd3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2021-events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guides/modded_mc.html" beforeDir="false" afterPath="$PROJECT_DIR$/guides/modded_mc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-events.html" beforeDir="false" afterPath="$PROJECT_DIR$/2021-events.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
       <workItem from="1605899112706" duration="6357000" />
       <workItem from="1606163227885" duration="823000" />
       <workItem from="1609899895714" duration="96000" />
-      <workItem from="1609900010963" duration="969000" />
+      <workItem from="1609900010963" duration="1470000" />
     </task>
     <servers />
   </component>
