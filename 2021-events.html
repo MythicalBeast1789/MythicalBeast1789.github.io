@@ -16,8 +16,10 @@
     const event_list_elm = document.getElementById('event-list')
     fetch('2021.json').then(res => {
         res.text().then(json => {
+            console.log(json)
             for (ev in json) {
                 const date_h = "<h4>" + ev.date + "</h4>"
+                console.log(ev)
                 event_list_elm.insertAdjacentHTML('beforeend', date_h)
             }
         })
