@@ -17,7 +17,7 @@
     fetch('2021.json').then(res => {
         res.text().then(text => {
             const json = JSON.parse(text)
-
+            print(json)
             for (ev in json) {
                 const date_h = "<h4>" + ev.date + "</h4>"
                 console.log(ev)
